@@ -30,6 +30,8 @@ Emergency rooms often face **long wait times, resource constraints, and unpredic
    - Used **bar, line, and stacked column charts** for trend analysis
    - Created **slicer filters** for drill-down insights
 
+![image alt](https://github.com/GauravLayak/Hospital-Emergency-Room-Dashboard/blob/5ab6b4aebe8145090946f793c562856d4acd42be/Dashboard%20Overview.png)
+
 ## 🎯 Business Impact
 🚀 **20% reduction in patient wait time** by identifying peak hours  
 🚀 **Improved hospital resource allocation** by tracking referral patterns  
