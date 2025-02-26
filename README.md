@@ -10,11 +10,11 @@ Emergency rooms often face **long wait times, resource constraints, and unpredic
 - **Improve patient experience** by identifying pain points
 
 ## 🔑 Key Features & Insights
-✅ **Patient Admission Analysis** – Track admitted vs. non-admitted patients
-✅ **Timeliness KPI** – Identify bottlenecks in patient wait times
-✅ **Department Referrals** – Optimize inter-department patient flow
-✅ **Satisfaction Score Tracking** – Measure service quality trends
-✅ **Time-Based Analysis** – Understand patient influx by hour & day
+1. **Patient Admission Analysis** – Track admitted vs. non-admitted patients.
+2. **Timeliness KPI** – Identify bottlenecks in patient wait times.
+3. **Department Referrals** – Optimize inter-department patient flow.
+4. **Satisfaction Score Tracking** – Measure service quality trends.
+5. **Time-Based Analysis** – Understand patient influx by hour & day.
 
 ## 🛠️ Tech Stack & Tools Used
 - **Power BI** – Data visualization & interactive dashboard
